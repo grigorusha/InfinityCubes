@@ -1,0 +1,1 @@
+C:\Users\Дом\PycharmProjects\RollingCubes\venv\Scripts\pyinstaller -n InfinityCubes.exe -i InfinityCubes.ico --onefile --noconsole main.py --upx-dir C:\Users\Дом\PycharmProjects\UPX
